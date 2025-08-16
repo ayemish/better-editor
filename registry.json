@@ -1,6 +1,6 @@
 {
-  "name": "shadcn/ui",
-  "homepage": "https://ui.shadcn.com",
+  "name": "shadcn-editor",
+  "homepage": "https://shadcn-editor.vercel.app",
   "items": [
     {
       "name": "index",
